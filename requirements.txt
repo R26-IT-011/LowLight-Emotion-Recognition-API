@@ -1,7 +1,8 @@
 fastapi
 uvicorn
 python-multipart
-tensorflow
-numpy
+tensorflow-cpu
+numpy<2
 Pillow
 opencv-contrib-python-headless>=4.8,<5.0
+
